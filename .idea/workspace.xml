@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5da9c620-f5a7-472a-8151-94cb3ea4b602" name="Changes" comment="portfolio">
-      <change afterPath="$PROJECT_DIR$/Facebook/facebook.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Facebook/facebook.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Projects-HTMLCSS.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project-1/Portfolio.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project-1/Portfolio.html" beforeDir="false" />
-    </list>
+    <list default="true" id="5da9c620-f5a7-472a-8151-94cb3ea4b602" name="Changes" comment="facebook log in page" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,6 +46,26 @@
       <option name="presentableId" value="Default" />
       <updated>1682436685952</updated>
     </task>
+    <task id="LOCAL-00001" summary="Portfolio landing page">
+      <created>1682508665872</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1682508665872</updated>
+    </task>
+    <task id="LOCAL-00002" summary="facebook log in page">
+      <created>1682508867731</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1682508867731</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Portfolio landing page" />
+    <MESSAGE value="facebook log in page" />
+    <option name="LAST_COMMIT_MESSAGE" value="facebook log in page" />
   </component>
 </project>
