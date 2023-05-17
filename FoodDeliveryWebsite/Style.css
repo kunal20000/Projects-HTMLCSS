@@ -1,0 +1,15 @@
+
+*{
+margin: 0;
+padding: 0;
+}
+
+/*CSS Variables */
+ :root{
+ --navbar-height: 59px;
+ }
+
+/* navigation bar*/
+#navbar{
+displa
+}
