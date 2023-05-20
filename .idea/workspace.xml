@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5da9c620-f5a7-472a-8151-94cb3ea4b602" name="Changes" comment="Js Project mini">
-      <change afterPath="$PROJECT_DIR$/GroceryList/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GroceryList/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hot or Cold Part 1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Hot or Cold Part 1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tribute Page A.P.J Abdual Kalam/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tribute Page A.P.J Abdual Kalam/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,7 +120,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684593716976</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Js Project mini">
+      <created>1684594001466</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1684594001466</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
