@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5da9c620-f5a7-472a-8151-94cb3ea4b602" name="Changes" comment="Tribute page">
-      <change afterPath="$PROJECT_DIR$/Asian paints/asian.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Asian paints/asian.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Asian paints/asian.js" afterDir="false" />
+    <list default="true" id="5da9c620-f5a7-472a-8151-94cb3ea4b602" name="Changes" comment="Js mini project">
+      <change afterPath="$PROJECT_DIR$/Tic Tac Toe/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic Tac Toe/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic Tac Toe/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684594338543</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Js mini project">
+      <created>1684595397355</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1684595397355</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -158,6 +166,7 @@
     <MESSAGE value="DarK Theme" />
     <MESSAGE value="Js Project mini" />
     <MESSAGE value="Tribute page" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tribute page" />
+    <MESSAGE value="Js mini project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Js mini project" />
   </component>
 </project>
