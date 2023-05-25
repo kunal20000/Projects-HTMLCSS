@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+  <link rel="stylesheet" href="./index.css">
+</head>
+<body>
+
+
+<div class="text-here" id="text-container">This is some example text</div>
+<label for="colorbox">Change Text Color :</label>
+<input type="text" id="colorbox"> <button type="submit" id="colorchange">Change Color</button>
+<br>
+<label for="fontsize">Change Font Size:</label>
+<input type="range" id="fontsize" min="10" max="100" value="55px">
+<br>
+<button id="underline" class="stylebt">Underline</button>
+<button id="italic" class="stylebt">Italic</button>
+<button id="bold" class="stylebt">Bold</button>
+<br>
+<label for="list">Change Font Family:</label>
+<select id="list">
+    <option value="serif">Serif</option>
+    <option value="sans-serif">Sans-Serif</option>
+    <option value="monospace">Monospace</option>
+    <option value="cursive">Cursive</option>
+    <option value="fantasy">Fantasy</option>
+</select>
+<br>
+
+<button id="getstyle">Get CSS Properties</button>
+
+<p id="css-props"></p>
+<script src="./index.js"></script>
+</body>
+</html>
