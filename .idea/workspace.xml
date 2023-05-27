@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5da9c620-f5a7-472a-8151-94cb3ea4b602" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Dynamic - css - frontend/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dynamic - css - frontend/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dynamic - css - frontend/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spotify_Landing_page/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spotify_Landing_page/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spotify_Landing_page/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -170,7 +171,28 @@
       <option name="project" value="LOCAL" />
       <updated>1685037780049</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Js mini project">
+      <created>1685038053221</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1685038053221</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Js mini project">
+      <created>1685038151707</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1685038151707</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Js mini project">
+      <created>1685038212806</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1685038212806</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
