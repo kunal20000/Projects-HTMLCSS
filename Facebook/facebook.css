@@ -1,9 +1,11 @@
-*{
-    background-color: #f0f2f5;
-}
+
 
 body{
     font-size: 12px;
+}
+#main{
+  background-color: #f0f2f5;
+  background-size: cover;
 }
 div{
     display: block;
@@ -26,7 +28,7 @@ div{
 
 .facebook{
     text-align: center;
-    margin-top: 50px;
+    //margin-top: 50px;
 }
 
 .facebook-logo{
@@ -127,3 +129,13 @@ button{
 
 
 }
+
+#footer-id{
+  margin-top: 80px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  gap: 20px;
+  background-color: white;
+}
+
