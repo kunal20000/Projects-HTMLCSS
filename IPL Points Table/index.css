@@ -1,0 +1,16 @@
+table th {
+    background-color: #00008b;
+    color: #ffffff;
+
+}
+
+table td{
+    border: 1px solid #dddddd;
+}
+
+table tbody tr td:first-child{
+    background-color: #f2f2f2;
+}
+table tbody tr td:last-child{
+    background-color: #d1d1d1;
+}
